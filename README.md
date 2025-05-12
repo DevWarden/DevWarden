@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Joshua Chinwendu
-- 🌱 I’m currently learning how to learn 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects |make the world a little better.
-- 💞️ I’m looking to collaborate on Java projects
-- ⚡ Fun fact: I love adventures
+- I’m DevWarden. The Knight of codes
